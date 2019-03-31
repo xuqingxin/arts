@@ -58,7 +58,7 @@ https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031583&idx=1&sn=b80eb6
 这篇文章为互联网项目的架构提供了三个常用的利器：微服务，消息队列，定时任务。使用它们三个搭建的项目，不管项目大小如何，整个架构整体可扩展，可以在很长的一段时间内无需做大的调整。
 
 ![架构](
-https://github.com/xuqingxin/arts/blob/master/images/Review2/architecture.webp)
+https://github.com/xuqingxin/arts/blob/master/images/Share2/architecture.webp)
 
 ### 微服务
 
