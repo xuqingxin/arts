@@ -22,6 +22,7 @@ Learn Elm Programming](https://www.facebook.com/groups/learnelm/)。
 
 ##### 脆弱的基类问题
 作者曾经写了一个继承自其他类的子类。这个子类一直工作得好好的，直到有一天，它忽然工作不正常了。而作者没有对代码做任何改动，唯一的解释就是基类发生了变化。作者举了一个的例子说明了这个问题。
+
 这是基类。
 ```Java
 import java.util.ArrayList;
@@ -114,6 +115,7 @@ https://github.com/watching)
 原文链接：[你确定你真的了解Java四种引用（强引用、弱引用、软引用、虚引用）了吗？](https://mp.weixin.qq.com/s?__biz=MzUzODQ0MDY2Nw==&mid=2247483981&idx=1&sn=e41692db5ff0aeaeeb17af0845e2f2da)
 
 文章用比较简单的篇幅列举了Java四种引用的区别，指出它们何时会进行被GC，生存周期如何。主要内容如下表格：
+
 |**引用类型**|**GC回收时间**|**生存时间**|
 |-|-|-|
 |强引用|从不|一直存活直到JVM停止运行|
